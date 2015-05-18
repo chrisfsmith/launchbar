@@ -1,5 +1,5 @@
 ## Incognito
-[Launchbar](https://www.obdev.at/products/launchbar/index.html) extension to open a URL in a Google Chrome incognito window.
+[LaunchBar](https://www.obdev.at/products/launchbar/index.html) extension to open a URL in a Google Chrome incognito window.
 
 ## Installation:
 1. Download [Incognito.lbaction](https://dl.dropboxusercontent.com/u/20326286/lbdist/Incognito.lbaction)
