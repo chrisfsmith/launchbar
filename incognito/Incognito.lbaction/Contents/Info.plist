@@ -5,9 +5,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>co.certainplace.launchbar.Incognito</string>
 	<key>CFBundleName</key>
-	<string>Incognito</string>
+	<string>Google Chrome Incognito</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleIconFile</key>
 	<string>com.google.Chrome</string>
 	<key>LBRequiredApplication</key>
@@ -40,8 +40,6 @@
 		<string>Open URLs in Google Chrome's Incognito mode.</string>
 		<key>LBAuthor</key>
 		<string>Chris Smith</string>
-		<key>LBEmail</key>
-		<string>logicfault@certainplace.co</string>
 		<key>LBWebsite</key>
 		<string>https://github.com/chrisfsmith/launchbar</string>
 		<key>LBTwitter</key>

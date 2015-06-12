@@ -14,5 +14,9 @@
     2. Find the action by typing **Incognito** in LaunchBar
     3. `ENTER`
 
+## Release Notes:
+* 1.0: Initial
+* 1.0.1: Change *CFBundleName* to **Google Chrome Incognito**
+
 ## Thanks to:
-* Inspired by an answer from **user23127** on [Ask Different](http://apple.stackexchange.com/a/123909)
+* Inspired by an answer from *user23127* on [Ask Different](http://apple.stackexchange.com/a/123909)
