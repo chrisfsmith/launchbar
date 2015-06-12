@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>co.certainplace.launchbar.OpenSafariTabInChrome</string>
+	<key>CFBundleName</key>
+	<string>Open Safari Tab In Google Chrome</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleIconFile</key>
+	<string>com.google.Chrome</string>
+	<key>LBRequiredApplication</key>
+	<string>com.google.Chrome</string>
+	<key>LBDebugLogEnabled</key>
+	<true/>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+			<key>LBRunInBackground</key>
+			<false/>
+			<key>LBRequiresArgument</key>
+			<false/>
+			<key>LBReturnsResult</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBSummary</key>
+		<string>Opens current Safari tab in Google Chrome.</string>
+		<key>LBAuthor</key>
+		<string>Chris Smith</string>
+		<key>LBWebsite</key>
+		<string>https://github.com/chrisfsmith/launchbar</string>
+		<key>LBTwitter</key>
+		<string>@logicfault</string>
+		<key>LBRequirements</key>
+		<string>Requires Google Chrome</string>
+	</dict>
+</dict>
+</plist>
