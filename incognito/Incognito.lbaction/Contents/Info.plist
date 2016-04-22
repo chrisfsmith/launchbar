@@ -7,9 +7,9 @@
 	<key>CFBundleName</key>
 	<string>Google Chrome Incognito</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.1</string>
+	<string>1.0.2</string>
 	<key>CFBundleIconFile</key>
-	<string>com.google.Chrome</string>
+	<string>incognito.png</string>
 	<key>LBRequiredApplication</key>
 	<string>com.google.Chrome</string>
 	<key>LBDebugLogEnabled</key>

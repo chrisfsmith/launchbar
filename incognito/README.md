@@ -17,6 +17,7 @@
 ## Release Notes:
 * 1.0: Initial
 * 1.0.1: Change *CFBundleName* to **Google Chrome Incognito**
+* 1.0.2: Adding new icon
 
 ## Thanks to:
 * Inspired by an answer from *user23127* on [Ask Different](http://apple.stackexchange.com/a/123909)
