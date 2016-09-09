@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>co.certainplace.launchbar.Timer</string>
+	<key>CFBundleName</key>
+	<string>Set a Timer</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>CFBundleIconFile</key>
+	<string>font-awesome:fa-clock-o</string>
+	<key>LBDebugLogEnabled</key>
+	<true/>
+	<key>LBTextInputTitle</key>
+	<string>Reminder [when]</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+			<key>LBRunInBackground</key>
+			<false/>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+			  <string>string</string>
+			</array>
+			<key>LBReturnsResult</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBSummary</key>
+		<string>Create a timer to remind you of something later.</string>
+		<key>LBAuthor</key>
+		<string>Chris Smith</string>
+		<key>LBWebsite</key>
+		<string>https://github.com/chrisfsmith/launchbar</string>
+		<key>LBTwitter</key>
+		<string>@logicfault</string>
+		<key>LBArgument</key>
+		<string>Reminder text in the form of "[reminder message] [delay]". Delay a string like 1m, 2m30s, 4h...</string>
+	</dict>
+</dict>
+</plist>
